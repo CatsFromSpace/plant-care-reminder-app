@@ -19,3 +19,6 @@ An android app that allows its user to save their plants to keep track of their 
 
 ## Technical Implementation
 - Built with Android Studio
+
+## Screenshots
+![Screenshot 2025-04-15 093819](https://github.com/user-attachments/assets/c0dbc2fa-856c-4c36-8e00-0585f311a1f3)
