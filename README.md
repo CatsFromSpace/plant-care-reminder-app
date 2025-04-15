@@ -3,7 +3,7 @@
 By: Cali Crouse
 Date: 12/06/2024
 
-## Purpose Statement
+## Overview
 An android app that allows its user to save their plants to keep track of their watering, fertilizing, and repotting schedules. Utilzies push notifications to remind users when their plants are due for care.
 
 ## Features
@@ -19,6 +19,10 @@ An android app that allows its user to save their plants to keep track of their 
 
 ## Technical Implementation
 - Built with Android Studio
+
+## How to run?
+- Clone this repo
+- Open the project in Android Studio, specifying root file path
 
 ## Screenshots
 ![Screenshot 2025-04-15 093819](https://github.com/user-attachments/assets/c0dbc2fa-856c-4c36-8e00-0585f311a1f3)
